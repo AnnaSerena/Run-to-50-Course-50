@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: seren
+Build-Jdk: 12.0.2
+Main-Class: exec.DiceRun
+Created-By: Maven Integration for Eclipse
+
